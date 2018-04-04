@@ -1,0 +1,36 @@
+{
+  "description":{
+    "info":"One of the best captain & wicket-keeper batsmen in the world."
+  },
+  "achievements":[
+    {
+      "Title":"ODI WorldCup",
+      "Year":"-In 2011",
+      "Opponent":"-vs Sri Lanka"
+    },
+    {
+      "Title":"Champions Trophy",
+      "Year":"-In 2013",
+      "Opponent":"-vs England"
+    },
+    {
+      "Title":"ICC T20 World Cup",
+      "Year":"-In 2007",
+      "Opponent":"-vs Pakistan"
+    }
+  ],
+  "skills":[
+    {
+      "name":"Helicopter shot",
+      "info":"Unique style in hitting a boundary."
+    },
+    {
+      "name":"Wicket-keeping",
+      "info":"Stumping in fraction of seconds."
+    },
+    {
+      "name":"Cool minded",
+      "info":"Getting pressure situations under control."
+    }
+  ]
+}
